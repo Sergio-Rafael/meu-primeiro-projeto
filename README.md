@@ -1,1 +1,1 @@
-Meu primeiro projeto usando Git e GitHub. ola!
+aprendendo pelo vs code
